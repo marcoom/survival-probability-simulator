@@ -23,6 +23,8 @@ The Survival Probability Simulator is an interactive data science application th
 ## Try the App
 You can try the app online at Streamlit Community Cloud [here](https://survival-probability-simulator.streamlit.app/).
 
+![Demo](./media/demo.gif)
+
 ## Installation
 
 ### Prerequisites
